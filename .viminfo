@@ -1,0 +1,216 @@
+# 이 viminfo 파일은 빔이 만든 것입니다 Vim 7.4.
+# 조심만 한다면 고칠 수도 있습니다!
+
+# 이 파일이 저장되었을 때의 'encoding'의 값
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~H
+# Last Search Pattern:
+~Msle0~/\<php\>
+
+# 마지막으로 바꾼 문자열:
+$
+
+# 명령 줄 히스토리 (새것부터 오래된 것 순):
+:qa!
+:Qa!
+:wq!
+
+# 찾을 문자열 히스토리 (새것부터 오래된 것 순):
+? \<php\>
+??php
+
+# 표현 히스토리 (새것부터 오래된 것 순):
+
+# 입력 줄 히스토리 (새것부터 오래된 것 순):
+
+# 입력 줄 히스토리 (새것부터 오래된 것 순):
+
+# 레지스터:
+"0	CHAR	0
+	n
+"1	LINE	0
+	                    <p>생년월일</p>
+	                    <input type="date" name="userbirth" required>
+"2	LINE	0
+	#warning메세지 제거
+"3	LINE	0
+	    $con = oci_connect("DBA2022G4", "dbdb1234", $db);
+""-	CHAR	0
+	?
+
+# 파일 마크:
+'0  30  0  /var/www/html/a_team/a_team4/dbproject/code/register_and_login/register.php
+'1  47  8  /var/www/html/a_team/a_team4/dbproject/code/register_and_login/register.php
+'2  30  0  /var/www/html/a_team/a_team2/project/standard/register_proce.php
+'3  43  0  /var/www/html/a_team/a_team3/project_strawberryMarket/register_logic.php
+'4  83  0  /var/www/html/a_team/a_team3/project_strawberryMarket/register_logic.php
+'5  32  0  /var/www/html/a_team/a_team2/project/standard/register_proce.php
+'6  43  0  /var/www/html/a_team/a_team6/login_check.php
+'7  54  0  /var/www/html/a_team/a_team6/loginchecker.php
+'8  144  0  /var/www/html/a_team/a_team5/project/login/login.php
+'9  1  0  /var/www/html/a_team/a_team5/project/login/login-ok.php
+
+# 점프목록 (새것이 먼저):
+-'  30  0  /var/www/html/a_team/a_team4/dbproject/code/register_and_login/register.php
+-'  47  8  /var/www/html/a_team/a_team4/dbproject/code/register_and_login/register.php
+-'  58  8  /var/www/html/a_team/a_team4/dbproject/code/register_and_login/register.php
+-'  30  0  /var/www/html/a_team/a_team2/project/standard/register_proce.php
+-'  32  0  /var/www/html/a_team/a_team2/project/standard/register_proce.php
+-'  43  0  /var/www/html/a_team/a_team3/project_strawberryMarket/register_logic.php
+-'  83  0  /var/www/html/a_team/a_team3/project_strawberryMarket/register_logic.php
+-'  1  0  /var/www/html/a_team/a_team3/project_strawberryMarket/register_logic.php
+-'  1  0  /var/www/html/a_team/a_team2/project/standard/register_proce.php
+-'  43  0  /var/www/html/a_team/a_team6/login_check.php
+-'  1  0  /var/www/html/a_team/a_team6/login_check.php
+-'  54  0  /var/www/html/a_team/a_team6/loginchecker.php
+-'  1  0  /var/www/html/a_team/a_team6/loginchecker.php
+-'  144  0  /var/www/html/a_team/a_team5/project/login/login.php
+-'  1  0  /var/www/html/a_team/a_team5/project/login/login.php
+-'  1  0  /var/www/html/a_team/a_team5/project/login/login-ok.php
+-'  22  4  /var/www/html/a_team/a_team5/project/login/encrypted_password.php
+-'  1  0  /var/www/html/a_team/a_team5/project/login/encrypted_password.php
+-'  16  0  /var/www/html/a_team/a_team4/dbproject/code/register_and_login/login-ok.php
+-'  7  0  /var/www/html/a_team/a_team4/dbproject/code/register_and_login/login-ok.php
+-'  75  0  /var/www/html/a_team/a_team3/project_strawberryMarket/login_logic.php
+-'  65  0  /var/www/html/a_team/a_team2/project/standard/login_proce.php
+-'  48  16  /var/www/html/a_team/a_team2/project/standard/login_proce.php
+-'  1  0  /var/www/html/a_team/a_team4/dbproject/code/register_and_login/login-ok.php
+-'  1  0  /var/www/html/a_team/a_team3/login_logic.php
+-'  1  0  /var/www/html/a_team/a_team3/project_strawberryMarket/login_logic.php
+-'  1  0  /var/www/html/a_team/a_team2/project/standard/login_proce.php
+-'  21  0  /var/www/html/a_team/a_team4/dbproject/code/register_and_login/mypage.php
+-'  1  0  /var/www/html/a_team/a_team4/dbproject/code/register_and_login/mypage.php
+-'  1  0  /var/www/html/a_team/a_team4/dbproject/code/register_and_login/register.php
+-'  134  22  /var/www/html/a_team/a_team4/dbproject/code/registration/preservation_perform.php
+-'  46  0  /var/www/html/a_team/a_team4/dbproject/code/registration/preservation_perform.php
+-'  85  20  /var/www/html/a_team/a_team4/dbproject/code/registration/preservation_perform.php
+-'  111  16  /var/www/html/a_team/a_team4/dbproject/code/registration/preservation_perform.php
+-'  118  4  /var/www/html/a_team/a_team3/project_strawberryMarket/search_logic.php
+-'  98  4  /var/www/html/a_team/a_team3/project_strawberryMarket/search_logic.php
+-'  1  0  /var/www/html/a_team/a_team3/project_strawberryMarket/db_connect.php
+-'  8  0  /var/www/html/a_team/a_team3/project_strawberryMarket/db_connect.php
+-'  101  4  /var/www/html/a_team/a_team3/project_strawberryMarket/search_logic.php
+-'  74  10  /var/www/html/a_team/a_team3/project_strawberryMarket/mainpage.php
+-'  100  10  /var/www/html/a_team/a_team3/project_strawberryMarket/mainpage.php
+-'  100  4  /var/www/html/a_team/a_team3/project_strawberryMarket/search_logic.php
+-'  106  20  /var/www/html/a_team/a_team3/project_strawberryMarket/search_logic.php
+-'  95  2  /var/www/html/a_team/a_team3/project_strawberryMarket/mainpage.php
+-'  35  9  /var/www/html/a_team/a_team4/dbproject/code/index.php
+-'  14  9  /var/www/html/a_team/a_team4/dbproject/code/index.php
+-'  127  20  /var/www/html/a_team/a_team3/project_strawberryMarket/search_logic.php
+-'  167  5  /var/www/html/a_team/a_team3/project_strawberryMarket/productInformation.php
+-'  29  10  /var/www/html/a_team/a_team3/project_strawberryMarket/productInformation.php
+-'  137  10  /var/www/html/a_team/a_team3/project_strawberryMarket/productInformation.php
+-'  1  0  /var/www/html/a_team/a_team3/project_strawberryMarket/search_logic.php
+-'  81  19  /var/www/html/a_team/a_team6/emprefer.php
+-'  39  28  /var/www/html/a_team/a_team6/emprefer.php
+-'  92  0  /var/www/html/a_team/a_team6/managemain.php
+-'  116  0  /var/www/html/a_team/a_team6/managemain.php
+-'  1  0  /var/www/html/a_team/a_team6/emprefer.php
+-'  70  4  /var/www/html/a_team/a_team6/managemain.php
+-'  106  10  /var/www/html/a_team/a_team6/emprefer.php
+-'  83  10  /var/www/html/a_team/a_team6/managemain.php
+-'  46  0  /var/www/html/a_team/a_team6/empreferac.php
+-'  1  0  /var/www/html/a_team/a_team6/empreferac.php
+-'  58  8  /var/www/html/a_team/a_team6/managemain.php
+-'  115  0  /var/www/html/a_team/a_team6/usertruckrefer.php
+-'  1  0  /var/www/html/a_team/a_team6/usertruckrefer.php
+-'  155  0  /var/www/html/a_team/a_team6/user_search.php
+-'  1  0  /var/www/html/a_team/a_team6/user_search.php
+-'  61  0  /var/www/html/a_team/a_team4/dbproject/code/print/performlist.php
+-'  1  0  /var/www/html/a_team/a_team4/dbproject/code/print/performlist.php
+-'  105  10  /var/www/html/a_team/a_team3/project_strawberryMarket/mainpage.php
+-'  44  10  /var/www/html/a_team/a_team3/project_strawberryMarket/mainpage.php
+-'  70  0  /var/www/html/a_team/a_team4/dbproject/code/print/teacherlist.php
+-'  1  0  /var/www/html/a_team/a_team4/dbproject/code/print/teacherlist.php
+-'  50  2  /var/www/html/a_team/a_team6/managemain.php
+-'  1  14  /var/www/html/a_team/a_team6/cr_ac.php
+-'  113  20  /var/www/html/a_team/a_team6/cr_ac.php
+-'  136  0  /var/www/html/a_team/a_team6/cr_ac_at.php
+-'  1  0  /var/www/html/a_team/a_team6/cr_ac_at.php
+-'  43  0  /var/www/html/a_team/a_team2/project/main/board/tip_list.php
+-'  1  0  /var/www/html/a_team/a_team2/project/main/board/tip_list.php
+-'  44  0  /var/www/html/a_team/a_team2/project/main/board/tip_board_list.php
+-'  1  0  /var/www/html/a_team/a_team2/project/main/board/tip_board_list.php
+-'  1  0  /var/www/html/a_team/a_team2/project/main/board/tip_borad_list.php
+-'  1  0  /var/www/html/a_team/a_team3/project_strawberryMarket/productInformation.php
+-'  19  12  /var/www/html/a_team/a_team4/dbproject/code/register_and_login/mypage.php
+-'  61  12  /var/www/html/a_team/a_team4/dbproject/code/register_and_login/mypage.php
+-'  58  8  /var/www/html/a_team/a_team4/dbproject/code/register_and_login/changemember.php
+-'  67  8  /var/www/html/a_team/a_team4/dbproject/code/register_and_login/changemember.php
+-'  361  0  /var/www/html/a_team/a_team4/dbproject/code/registration/course_registration.php
+-'  1  0  /var/www/html/a_team/a_team4/dbproject/code/registration/course_registration.php
+-'  170  12  /var/www/html/a_team/a_team4/dbproject/code/registration/preservation_perform.php
+-'  125  14  /var/www/html/a_team/a_team4/dbproject/code/registration/preservation_perform.php
+-'  113  16  /var/www/html/a_team/a_team4/dbproject/code/register_and_login/mypage.php
+-'  179  4  /var/www/html/a_team/a_team4/dbproject/code/register_and_login/changemember.php
+-'  27  0  /var/www/html/a_team/a_team3/project_strawberryMarket/altPrivacy.php
+-'  1  0  /var/www/html/a_team/a_team3/project_strawberryMarket/altPrivacy.php
+-'  60  4  /var/www/html/a_team/a_team2/project/main/mypage_proc.php
+-'  63  4  /var/www/html/a_team/a_team2/project/main/mypage_proc.php
+-'  54  16  /var/www/html/a_team/a_team4/dbproject/code/register_and_login/changemember.php
+
+# 파일내의 마크 히스토리 (새것부터 오래된 순):
+
+> /var/www/html/a_team/a_team4/dbproject/code/register_and_login/register.php
+	"	30	0
+
+> /var/www/html/a_team/a_team2/project/standard/register_proce.php
+	"	30	0
+
+> /var/www/html/a_team/a_team3/project_strawberryMarket/register_logic.php
+	"	43	0
+
+> /var/www/html/a_team/a_team6/login_check.php
+	"	43	0
+
+> /var/www/html/a_team/a_team6/loginchecker.php
+	"	54	0
+
+> /var/www/html/a_team/a_team5/project/login/login.php
+	"	144	0
+
+> /var/www/html/a_team/a_team5/project/login/login-ok.php
+	"	1	0
+
+> /var/www/html/a_team/a_team5/project/login/encrypted_password.php
+	"	22	4
+
+> /var/www/html/a_team/a_team4/dbproject/code/register_and_login/login-ok.php
+	"	16	0
+
+> /var/www/html/a_team/a_team3/project_strawberryMarket/login_logic.php
+	"	75	0
+
+> /var/www/html/a_team/a_team2/project/standard/login_proce.php
+	"	65	0
+
+> /var/www/html/a_team/a_team3/login_logic.php
+	"	1	0
+
+> /var/www/html/a_team/a_team4/dbproject/code/register_and_login/mypage.php
+	"	21	0
+
+> /var/www/html/a_team/a_team4/dbproject/code/registration/preservation_perform.php
+	"	134	22
+
+> /var/www/html/a_team/a_team3/project_strawberryMarket/search_logic.php
+	"	118	4
+
+> /var/www/html/a_team/a_team3/project_strawberryMarket/db_connect.php
+	"	1	0
+
+> /var/www/html/a_team/a_team3/project_strawberryMarket/mainpage.php
+	"	74	10
+
+> /var/www/html/a_team/a_team5/project/main/main.html
+	"	152	0
+
+> /var/www/html/a_team/a_team4/dbproject/code/index.php
+	"	35	9
+
+> /var/www/html/a_team/a_team3/project_strawberryMarket/productInformation.php
+	"	167	5
